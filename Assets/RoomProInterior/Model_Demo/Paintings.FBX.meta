@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d728d1b70da178a4e99ae3be588d2cb1
+timeCreated: 1446228410
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Paintings
+    100004: Paintings 1
+    100006: Paintings 10
+    100008: Paintings 11
+    100010: Paintings 12
+    100012: Paintings 13
+    100014: Paintings 14
+    100016: Paintings 15
+    100018: Paintings 2
+    100020: Paintings 3
+    100022: Paintings 4
+    100024: Paintings 5
+    100026: Paintings 6
+    100028: Paintings 7
+    100030: Paintings 8
+    100032: Paintings 9
+    400000: //RootNode
+    400002: Paintings
+    400004: Paintings 1
+    400006: Paintings 10
+    400008: Paintings 11
+    400010: Paintings 12
+    400012: Paintings 13
+    400014: Paintings 14
+    400016: Paintings 15
+    400018: Paintings 2
+    400020: Paintings 3
+    400022: Paintings 4
+    400024: Paintings 5
+    400026: Paintings 6
+    400028: Paintings 7
+    400030: Paintings 8
+    400032: Paintings 9
+    2300000: Paintings
+    2300002: Paintings 1
+    2300004: Paintings 10
+    2300006: Paintings 11
+    2300008: Paintings 12
+    2300010: Paintings 13
+    2300012: Paintings 14
+    2300014: Paintings 15
+    2300016: Paintings 2
+    2300018: Paintings 3
+    2300020: Paintings 4
+    2300022: Paintings 5
+    2300024: Paintings 6
+    2300026: Paintings 7
+    2300028: Paintings 8
+    2300030: Paintings 9
+    3300000: Paintings
+    3300002: Paintings 1
+    3300004: Paintings 10
+    3300006: Paintings 11
+    3300008: Paintings 12
+    3300010: Paintings 13
+    3300012: Paintings 14
+    3300014: Paintings 15
+    3300016: Paintings 2
+    3300018: Paintings 3
+    3300020: Paintings 4
+    3300022: Paintings 5
+    3300024: Paintings 6
+    3300026: Paintings 7
+    3300028: Paintings 8
+    3300030: Paintings 9
+    4300000: Paintings
+    4300002: Paintings
+    4300004: Paintings
+    4300006: Paintings
+    4300008: Paintings
+    4300010: Paintings
+    4300012: Paintings
+    4300014: Paintings
+    4300016: Paintings
+    4300018: Paintings
+    4300020: Paintings
+    4300022: Paintings
+    4300024: Paintings
+    4300026: Paintings
+    4300028: Paintings
+    4300030: Paintings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .310000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

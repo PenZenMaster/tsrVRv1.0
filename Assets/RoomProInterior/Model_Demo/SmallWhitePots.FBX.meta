@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 803c9a228f5061449bcc2f8ce1bc1914
+timeCreated: 1446229688
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SmallWhitePots
+    100004: SmallWhitePots 1
+    100006: SmallWhitePots 10
+    100008: SmallWhitePots 11
+    100010: SmallWhitePots 12
+    100012: SmallWhitePots 13
+    100014: SmallWhitePots 14
+    100016: SmallWhitePots 15
+    100018: SmallWhitePots 16
+    100020: SmallWhitePots 17
+    100022: SmallWhitePots 18
+    100024: SmallWhitePots 19
+    100026: SmallWhitePots 2
+    100028: SmallWhitePots 20
+    100030: SmallWhitePots 21
+    100032: SmallWhitePots 22
+    100034: SmallWhitePots 23
+    100036: SmallWhitePots 24
+    100038: SmallWhitePots 25
+    100040: SmallWhitePots 26
+    100042: SmallWhitePots 27
+    100044: SmallWhitePots 3
+    100046: SmallWhitePots 4
+    100048: SmallWhitePots 5
+    100050: SmallWhitePots 6
+    100052: SmallWhitePots 7
+    100054: SmallWhitePots 8
+    100056: SmallWhitePots 9
+    400000: SmallWhitePots
+    400002: //RootNode
+    400004: SmallWhitePots 1
+    400006: SmallWhitePots 10
+    400008: SmallWhitePots 11
+    400010: SmallWhitePots 12
+    400012: SmallWhitePots 13
+    400014: SmallWhitePots 14
+    400016: SmallWhitePots 15
+    400018: SmallWhitePots 16
+    400020: SmallWhitePots 17
+    400022: SmallWhitePots 18
+    400024: SmallWhitePots 19
+    400026: SmallWhitePots 2
+    400028: SmallWhitePots 20
+    400030: SmallWhitePots 21
+    400032: SmallWhitePots 22
+    400034: SmallWhitePots 23
+    400036: SmallWhitePots 24
+    400038: SmallWhitePots 25
+    400040: SmallWhitePots 26
+    400042: SmallWhitePots 27
+    400044: SmallWhitePots 3
+    400046: SmallWhitePots 4
+    400048: SmallWhitePots 5
+    400050: SmallWhitePots 6
+    400052: SmallWhitePots 7
+    400054: SmallWhitePots 8
+    400056: SmallWhitePots 9
+    2300000: SmallWhitePots
+    2300002: SmallWhitePots 1
+    2300004: SmallWhitePots 10
+    2300006: SmallWhitePots 11
+    2300008: SmallWhitePots 12
+    2300010: SmallWhitePots 13
+    2300012: SmallWhitePots 14
+    2300014: SmallWhitePots 15
+    2300016: SmallWhitePots 16
+    2300018: SmallWhitePots 17
+    2300020: SmallWhitePots 18
+    2300022: SmallWhitePots 19
+    2300024: SmallWhitePots 2
+    2300026: SmallWhitePots 20
+    2300028: SmallWhitePots 21
+    2300030: SmallWhitePots 22
+    2300032: SmallWhitePots 23
+    2300034: SmallWhitePots 24
+    2300036: SmallWhitePots 25
+    2300038: SmallWhitePots 26
+    2300040: SmallWhitePots 27
+    2300042: SmallWhitePots 3
+    2300044: SmallWhitePots 4
+    2300046: SmallWhitePots 5
+    2300048: SmallWhitePots 6
+    2300050: SmallWhitePots 7
+    2300052: SmallWhitePots 8
+    2300054: SmallWhitePots 9
+    3300000: SmallWhitePots
+    3300002: SmallWhitePots 1
+    3300004: SmallWhitePots 10
+    3300006: SmallWhitePots 11
+    3300008: SmallWhitePots 12
+    3300010: SmallWhitePots 13
+    3300012: SmallWhitePots 14
+    3300014: SmallWhitePots 15
+    3300016: SmallWhitePots 16
+    3300018: SmallWhitePots 17
+    3300020: SmallWhitePots 18
+    3300022: SmallWhitePots 19
+    3300024: SmallWhitePots 2
+    3300026: SmallWhitePots 20
+    3300028: SmallWhitePots 21
+    3300030: SmallWhitePots 22
+    3300032: SmallWhitePots 23
+    3300034: SmallWhitePots 24
+    3300036: SmallWhitePots 25
+    3300038: SmallWhitePots 26
+    3300040: SmallWhitePots 27
+    3300042: SmallWhitePots 3
+    3300044: SmallWhitePots 4
+    3300046: SmallWhitePots 5
+    3300048: SmallWhitePots 6
+    3300050: SmallWhitePots 7
+    3300052: SmallWhitePots 8
+    3300054: SmallWhitePots 9
+    4300000: SmallWhitePots
+    4300002: SmallWhitePots
+    4300004: SmallWhitePots
+    4300006: SmallWhitePots
+    4300008: SmallWhitePots
+    4300010: SmallWhitePots
+    4300012: SmallWhitePots
+    4300014: SmallWhitePots
+    4300016: SmallWhitePots
+    4300018: SmallWhitePots
+    4300020: SmallWhitePots
+    4300022: SmallWhitePots
+    4300024: SmallWhitePots
+    4300026: SmallWhitePots
+    4300028: SmallWhitePots
+    4300030: SmallWhitePots
+    4300032: SmallWhitePots
+    4300034: SmallWhitePots
+    4300036: SmallWhitePots
+    4300038: SmallWhitePots
+    4300040: SmallWhitePots
+    4300042: SmallWhitePots
+    4300044: SmallWhitePots
+    4300046: SmallWhitePots
+    4300048: SmallWhitePots
+    4300050: SmallWhitePots
+    4300052: SmallWhitePots
+    4300054: SmallWhitePots
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .310000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

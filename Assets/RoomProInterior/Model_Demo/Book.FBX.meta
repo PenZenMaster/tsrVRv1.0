@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 41674b711a7024a4ab2a26c398d03a5b
+timeCreated: 1446230166
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Book
+    100004: Book 1
+    100006: Book 10
+    100008: Book 11
+    100010: Book 12
+    100012: Book 13
+    100014: Book 14
+    100016: Book 15
+    100018: Book 16
+    100020: Book 17
+    100022: Book 18
+    100024: Book 2
+    100026: Book 3
+    100028: Book 4
+    100030: Book 5
+    100032: Book 6
+    100034: Book 7
+    100036: Book 8
+    100038: Book 9
+    400000: //RootNode
+    400002: Book
+    400004: Book 1
+    400006: Book 10
+    400008: Book 11
+    400010: Book 12
+    400012: Book 13
+    400014: Book 14
+    400016: Book 15
+    400018: Book 16
+    400020: Book 17
+    400022: Book 18
+    400024: Book 2
+    400026: Book 3
+    400028: Book 4
+    400030: Book 5
+    400032: Book 6
+    400034: Book 7
+    400036: Book 8
+    400038: Book 9
+    2300000: Book
+    2300002: Book 1
+    2300004: Book 10
+    2300006: Book 11
+    2300008: Book 12
+    2300010: Book 13
+    2300012: Book 14
+    2300014: Book 15
+    2300016: Book 16
+    2300018: Book 17
+    2300020: Book 18
+    2300022: Book 2
+    2300024: Book 3
+    2300026: Book 4
+    2300028: Book 5
+    2300030: Book 6
+    2300032: Book 7
+    2300034: Book 8
+    2300036: Book 9
+    3300000: Book
+    3300002: Book 1
+    3300004: Book 10
+    3300006: Book 11
+    3300008: Book 12
+    3300010: Book 13
+    3300012: Book 14
+    3300014: Book 15
+    3300016: Book 16
+    3300018: Book 17
+    3300020: Book 18
+    3300022: Book 2
+    3300024: Book 3
+    3300026: Book 4
+    3300028: Book 5
+    3300030: Book 6
+    3300032: Book 7
+    3300034: Book 8
+    3300036: Book 9
+    4300000: Book
+    4300002: Book
+    4300004: Book
+    4300006: Book
+    4300008: Book
+    4300010: Book
+    4300012: Book
+    4300014: Book
+    4300016: Book
+    4300018: Book
+    4300020: Book
+    4300022: Book
+    4300024: Book
+    4300026: Book
+    4300028: Book
+    4300030: Book
+    4300032: Book
+    4300034: Book
+    4300036: Book
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .310000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

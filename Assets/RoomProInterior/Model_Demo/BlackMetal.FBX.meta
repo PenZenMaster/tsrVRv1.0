@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 0217c653c73c23a458090620d2465030
+timeCreated: 1446227657
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BlackMetal
+    100004: BlackMetal 1
+    100006: BlackMetal 10
+    100008: BlackMetal 2
+    100010: BlackMetal 3
+    100012: BlackMetal 4
+    100014: BlackMetal 5
+    100016: BlackMetal 6
+    100018: BlackMetal 7
+    100020: BlackMetal 8
+    100022: BlackMetal 9
+    400000: BlackMetal
+    400002: //RootNode
+    400004: BlackMetal 1
+    400006: BlackMetal 10
+    400008: BlackMetal 2
+    400010: BlackMetal 3
+    400012: BlackMetal 4
+    400014: BlackMetal 5
+    400016: BlackMetal 6
+    400018: BlackMetal 7
+    400020: BlackMetal 8
+    400022: BlackMetal 9
+    2300000: BlackMetal
+    2300002: BlackMetal 1
+    2300004: BlackMetal 10
+    2300006: BlackMetal 2
+    2300008: BlackMetal 3
+    2300010: BlackMetal 4
+    2300012: BlackMetal 5
+    2300014: BlackMetal 6
+    2300016: BlackMetal 7
+    2300018: BlackMetal 8
+    2300020: BlackMetal 9
+    3300000: BlackMetal
+    3300002: BlackMetal 1
+    3300004: BlackMetal 10
+    3300006: BlackMetal 2
+    3300008: BlackMetal 3
+    3300010: BlackMetal 4
+    3300012: BlackMetal 5
+    3300014: BlackMetal 6
+    3300016: BlackMetal 7
+    3300018: BlackMetal 8
+    3300020: BlackMetal 9
+    4300000: BlackMetal
+    4300002: BlackMetal
+    4300004: BlackMetal
+    4300006: BlackMetal
+    4300008: BlackMetal
+    4300010: BlackMetal
+    4300012: BlackMetal
+    4300014: BlackMetal
+    4300016: BlackMetal
+    4300018: BlackMetal
+    4300020: BlackMetal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .310000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
