@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/introMenu.unity
+    guid: a15f3d2796142e54c94b7c19e77bdf64
+  - enabled: 1
     path: Assets/vipRoom.unity
     guid: 9a63c3b67a301fb459b5b314f5b92c31
